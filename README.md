@@ -1,4 +1,4 @@
-# Banker with a SWE Identity Crisis Issue
+# Analysing Businesses | Building Systems | Driving AI Transformation
 
 I work across full-stack software, business analysis in finance, AI adoption, machine learning, and systems engineering.
 
